@@ -15,3 +15,8 @@ A tkinter based web application designed in Python. You can call this a translat
 <h4>3.antonyms.com</h4>
 <h4>4.Tkinter GUI</h4>
 <h4>5.AutoIt for API</h4>
+
+<img src="https://github.com/atisamhaq123/Translator-tool/blob/main/1.PNG"/>
+<h2>Yandex.com</h2>
+<img src="https://github.com/atisamhaq123/Translator-tool/blob/main/Yandex.png"/>
+<img src="https://github.com/atisamhaq123/Translator-tool/blob/main/tt.jpg"/>
