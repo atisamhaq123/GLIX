@@ -1,4 +1,4 @@
-# Translator-tool
+# GLIX
 
 A tkinter based web application designed in Python. You can call this a translator tool but it is actually much more that that..
 
